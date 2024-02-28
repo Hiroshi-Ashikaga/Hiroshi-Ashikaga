@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hirosh Ashikaga
+- 👋 Hi, I’m Hiroshi Ashikaga
 - 👀 I learned computer science during college, and now I'm trying to use it in real life. 
 - 🌱 I’m currently learning Blockchain.
 - 💞️ I’m looking to collaborate on Open Source project
